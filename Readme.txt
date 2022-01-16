@@ -20,6 +20,3 @@ Concepts Used:
 2.CSS
 3.JAVA SCRIPT
 4.PHP
-5.JQUERY
-6.MYSQL
-7.Bootstrap ICONS
